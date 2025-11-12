@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mariana Paulino
+# 👋 Hi, I’m Mariana
 
 🎓 I’m currently pursuing a **Master’s in Engineering and Data Science** at the **University of Coimbra**.  
 💻 I’m developing my **Master’s thesis in MERGE** (Music Emotion Recognition new GEneration) project, from **CISUC (Centre for Informatics and Systems of the University of Coimbra)**.  
@@ -18,18 +18,17 @@
 **Languages:** Python, SQL, JavaScript, CSS, React  
 **Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy  
 **Tools:** Git, Docker, Jupyter, VSCode  
-**Data Viz:** Matplotlib, Seaborn, Plotly, Power BI, Tableau  
+**Data Vis:** Matplotlib, Seaborn, Plotly, Power BI, Tableau  
 
 ---
 
 ### 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinomary&layout=compact&theme=graywhite)
-![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinomary&show_icons=true&theme=graywhite)
 
 ---
 
-### 📫 Connect with Me
+### 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariana-paulino/)
 
 
