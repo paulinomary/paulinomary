@@ -15,16 +15,10 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, SQL, JavaScript, CSS, React  
+**Languages:** Python, SQL, JavaScript, CSS, HTML, React  
 **Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy  
 **Tools:** Git, Docker, Jupyter, VSCode  
 **Data Vis:** Matplotlib, Seaborn, Plotly, Power BI, Tableau  
-
----
-
-### 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinomary&layout=compact&theme=graywhite)
 
 ---
 
