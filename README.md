@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Mariana
 
 🎓 Master's student in **Engineering and Data Science** at the **University of Coimbra**.
+
 💻 Developing my Master's thesis within the **MERGE** project (*Music Emotion Recognition – next GEneration*) at **CISUC** (Centre for Informatics and Systems of the University of Coimbra).
+
 💡 Passionate about **machine learning** and **data-driven decision-making**.
+
 🚀 I enjoy combining **analytical thinking** with **creative exploration** to turn data into meaningful insights.
 
 ---
@@ -38,12 +41,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinomary&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinomary&layout=compact)
 
 ---
 
