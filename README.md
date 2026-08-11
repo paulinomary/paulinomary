@@ -14,8 +14,7 @@
 
 - 🤖 Machine Learning, Deep Learning & Natural Language Processing
 - 📊 Data Visualisation & Analytics
-- 🎶 **Music Emotion Recognition (MER)**
-
+- ♟ Data Enginering
 ---
 
 ### 🛠️ Tech Stack
