@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mariana
 
-🎓 Master's student in **Engineering and Data Science** at the **University of Coimbra**.
+🎓 Master's in **Engineering and Data Science** at the **University of Coimbra**.
 
-💻 Developing my Master's thesis within the **MERGE** project (*Music Emotion Recognition – next GEneration*) at **CISUC** (Centre for Informatics and Systems of the University of Coimbra).
+💻 Developed my Master's thesis within the **MERGE** project (*Music Emotion Recognition – next GEneration*) at **CISUC** (Centre for Informatics and Systems of the University of Coimbra).
 
 💡 Passionate about **machine learning** and **data-driven decision-making**.
 
